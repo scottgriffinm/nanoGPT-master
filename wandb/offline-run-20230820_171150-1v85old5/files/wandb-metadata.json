@@ -1,0 +1,38 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.5",
+    "heartbeatAt": "2023-08-20T22:11:50.440343",
+    "startedAt": "2023-08-20T22:11:50.380861",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "config/train_lyrics.py"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\Scott\\OneDrive\\Desktop\\Projects\\Lyric Generator\\nanoGPT-master\\train.py",
+    "codePath": "train.py",
+    "host": "MSI",
+    "username": "Scott",
+    "executable": "C:\\Users\\Scott\\OneDrive\\Desktop\\Projects\\Lyric Generator\\.ENV\\Scripts\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3201.0,
+        "min": 0.0,
+        "max": 3201.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3201.0,
+            "min": 0.0,
+            "max": 3201.0
+        }
+    ],
+    "disk": {
+        "total": 933.3437461853027,
+        "used": 641.7079200744629
+    },
+    "memory": {
+        "total": 15.385509490966797
+    }
+}

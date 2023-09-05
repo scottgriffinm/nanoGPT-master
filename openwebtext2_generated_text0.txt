@@ -1,0 +1,811 @@
+Finetuned from gpt2 on a dataset of my favorite artists song lyrics
+
+----------------PARAMETERS----------------
+init_from = resume
+out_dir = out-lyrics-divided
+start = 
+
+num_samples = 5
+max_new_tokens = 500
+temperature = 0.8
+top_k = 200
+seed = 1337
+device = cpu
+dtype = float16
+compile = False
+dataset = openwebtext2
+generated_text_out_directory = openwebtext2_generated_text0.txt
+----------------STATISTICS----------------
+similarity_score = 0.0
+----------------GENERATED TEXT----------------
+
+
+Even my friends said I was a bit old school, right?
+
+But I said...
+If... if I get my kid back
+
+I'll take me back to the bar
+
+And we'll make breakfast together
+
+I've got a friend who's really a slut
+And I know I can't be quiet
+
+She's the one that's the worst
+
+She's the one who's a monster
+And it's the one who's killing me
+
+Now she's the one who's killing me
+
+She's the one that's the worst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Silly boy, you don't even need to scream, do you?"
+
+[Intro: BAM FUCKING YOU]
+
+[Verse: Who the fuck are you?]
+
+[Clip: BAM FUCKING YOU]
+
+
+[Intro: Who the fuck are you?]
+
+[Clip: Who the fuck are you?]
+
+
+[Verse: Who the fuck are you?]
+
+[Clip: Who the fuck are you?]
+
+[Chorus: Who the fuck are you?]
+
+[Intro: Who the fuck are you?]
+
+[Clip: Who the fuck are you?]
+
+[Chorus: Who the fuck are you?]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------
+
+"It's very, very difficult foridemai to be able to participate in this." (Oskar)
+
+"Oskar, we've done our job already~" (Oskar)
+"This is what I can do~" (Oskar)
+"But you don't know why you're here"
+
+"It's so hard, but it's just not necessary to do this~" (Oskar)
+"Oskar, you need to do it without a doubt~" (Oskar)
+"But you don't know why you're here"
+"It's so hard, but it's just not necessary to do this~" (Oskar)
+"Hm, yeah~" (Oskar)
+"Just because you're not here, doesn't mean you no longer exist"
+
+"Oskar, what do you think of these people?" (Oskar)
+"Ah, they're quite beautiful~" (Oskar)
+"Oskar, look at the beauty in you~"
+
+"Oskar, they're quite beautiful~" (Oskar)
+"But, that's why they're so special~" (Oskar)
+"Oskar, you're really strong~" (Oskar)
+"But, that's why you're so special~" (Oskar)
+"But that's why you're so special~" (Oskar)
+"Eh, I see~" (Oskar)
+"Oskar, you're really strong~" (Oskar)
+"But, that's why you're so special~" (Oskar)
+"Ah, as if I thought it was this easy~" (Oskar)
+"Oskar, as if you thought it was this easy~" (Oskar)
+"Hm~, get used to it"
+
+"Oskar, it's a little bit hard with the
+
+"Oskar~" (Oskar)
+"It's a little bit hard with the
+
+"Oskar~" (Oskar)
+"It's a little bit hard with the
+
+"Oskar~" (Oskar)
+"Oskar, and you're
+----------------
+
+If you have any questions please let us know.
+
+The following is a list of all of the top 1st round picks in the Madden NFL Draft.
+
+1. Mike Williams
+
+2. C.J. Spiller
+
+3. Dez Bryant
+
+4. Larry Fitzgerald
+
+5. Mike Evans
+
+6. Dez Bryant
+
+7. Alshon Jeffery
+
+8. Dez Bryant
+
+9. Dez
+
+10. Dez
+
+11. Dez
+
+12. Le'Veon Bell
+
+13. Dez
+
+14. Dez
+
+15. Mike Evans
+
+16. Dez
+
+17. Dez
+
+18. Dez
+
+19. Dez
+
+20. Mike Evans
+
+21. Dez
+
+22. Dez
+
+23. Dez
+
+24. Dez
+
+25. Dez
+
+26. Dez
+
+27. Dez
+
+28. Dez
+
+29. Dez
+
+30. Mike Evans
+
+For details on the current draft process, click here.
+
+For more general scouting information, visit:
+
+http://www.mailman.com/news/soccer-draft-guide/2007-soccer-draft-pages/
+
+For more general scouting information, visit:
+
+http://www.mailman.com/news/soccer-draft-guide/2007-soccer-draft-pages/
+
+Follow us on Twitter @WyndandNFL for all the latest news, updates, and also get your free YT alerts in your inbox!
+
+Follow us on Twitter @WyndandNFL for all the latest news, updates, and also get your free YT alerts in your inbox!
+
+Like us on Facebook
+
+Follow us on Facebook
+
+Follow us on Twitter
+
+Follow us on Twitter
+
+Follow us on Facebook
+
+Follow us on Twitter
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Twitter
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on Facebook
+
+Follow us on
+----------------
+
+- Great for the fast movement of the wings
+
+- I use it as a kind of speed
+
+- It's kind of faster than a speeder
+
+- Oh and because I have a lot of range
+
+- I can make it slow
+- And I have a big range
+
+- And I can make it fast
+
+- I don't feel like I have to take it any
+
+- I can make it slow
+
+- Oh and because I have a lot of space
+- It's kind of faster than a speeder
+- Oh and because I have a lot of range
+- I can make it slow
+
+- Oh and because I have a lot of space
+
+- It's kind of faster than a speeder
+- Oh and because I have a lot of space
+
+- And I can make it fast
+
+- Oh and because I have a lot of space
+
+- whip
+
+-
+
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<|endoftext|>The nation's 5th Circuit Court of Appeals ruled Tuesday that Florida's voter registration law discriminates against black and Latino voters due to race, the ACLU said in a statement.
+
+In a case that went on to become one of the nation's most famous case, the 7th Circuit Court of Appeals said Broward County's voter registration law discriminates against black and Latino voters.
+
+"With some minority groups denied access to the voting process based on political affiliation and race, Florida's voter registration law does little more than make them feel like they're denied a right to vote because of race," the ACLU said.
+
+Based on a new analysis by the ACLU, the court decided that Florida law does nothing to discriminate.
+
+"The evidence supporting Florida's voter registration law goes against the essence of the Florida Constitution," said ACLU Senior Legal Analyst Kari Larson.
+
+" backdrop
+
+The Florida Supreme Court ruled on Tuesday that Florida's
+----------------
+
+Xenon
+
+-
+
+If you want to change his future, go for it.
+
+-
+
+[Hook]
+
+
+A man that I loved so much,
+
+He that I loved
+
+-
+
+
+
+[Hook]
+
+I feel for you, I feel for you
+
+-
+
+[Hook]
+
+That's not gonna change the way I feel
+
+-
+
+[Hook]
+
+You know what I like about you
+
+-
+
+[Hook]
+
+That's not gonna change the way I feel
+
+-
+
+
+[Hook]
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+-
+
+[Hook]
+-
+
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+
+[Hook]
+
+-
+
+
+[Hook]
+-
+
+
+[Hook]
+-
+
+ [Video]
+[Video]
+
+[Hook]
+There's lots of love in the world,
+
+
+I just want to be you, I just want to be you
+
+, I just want to be you
+
+-
+
+[Hook]
+
+[Video]
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+
+[Hook]
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+-
+
+[Hook]
+
+
+[Hook]
+
+
+-
+
+[Hook]
+
+[Hook]
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+-
+
+[Hook]
+
+
+[Hook]
+
+-
+
+[ appropriations -]
+
+[Text]
+
+Let them believe, let them save, let them die, let them
+----------------
